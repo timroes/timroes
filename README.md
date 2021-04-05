@@ -1,11 +1,10 @@
 ### Welcome to my GitHub profile 👋
 
-❬❬ [LinkedIn](https://www.linkedin.com/in/timroes/) • [www.timroes.de](https://www.timroes.de/) • [Twitter @tim_roes](https://twitter.com/tim_roes) • [YouTube](https://youtube.com/TimRoes) ❭❭
+🌍 ❬ [www.timroes.de](https://www.timroes.de/) ❭ <br>
+👥 ❬ [LinkedIn](https://www.linkedin.com/in/timroes/) • [Twitter](https://twitter.com/tim_roes) • [YouTube](https://youtube.com/TimRoes) ❭ <br>
+🏡 ❬ Located in Karlsruhe, Germany ❭ <br>
+🏢 ❬ Working at [Elastic](http://github.com/elastic) on [Kibana](https://github.com/elastic/kibana) ❭
 
-#### Facts & Figures
-
-- 🌍 Located in Karlsruhe, Germany
-- 🏢 Working at [Elastic](http://github.com/elastic) on [Kibana](https://github.com/elastic/kibana)
 
 <!--
 **timroes/timroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
