@@ -2,8 +2,7 @@
 
 🌍 ❬ [www.timroes.de](https://www.timroes.de/) ❭ <br>
 👥 ❬ [LinkedIn](https://www.linkedin.com/in/timroes/) • [Twitter](https://twitter.com/tim_roes) • [YouTube](https://youtube.com/TimRoes) ❭ <br>
-🏡 ❬ Located in Karlsruhe, Germany ❭ <br>
-🏢 ❬ Working at [Elastic](http://github.com/elastic) on [Kibana](https://github.com/elastic/kibana) ❭
+👨‍💻 ❬ Working at [Elastic](http://github.com/elastic) on [Kibana](https://github.com/elastic/kibana) ❭
 
 #### Tools and Teckstack
 
