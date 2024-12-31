@@ -1,7 +1,6 @@
 ### Welcome to my GitHub profile 👋
 
-🌍 ❬ [www.timroes.de](https://www.timroes.de/) · [LinkedIn](https://www.linkedin.com/in/timroes/) · [YouTube](https://youtube.com/TimRoes) ❭ <br>
-👨‍💻 ❬ Working at [Airbyte](https://airbyte.com/) ❭
+🌍 ❬ [www.timroes.de](https://www.timroes.de/) · [LinkedIn](https://www.linkedin.com/in/timroes/) · [YouTube](https://youtube.com/TimRoes) ❭
 
 #### Tools and Techstack
 
